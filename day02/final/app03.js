@@ -4,14 +4,14 @@ function setup() {
   let myCanvas = createCanvas(600, 400);
   myCanvas.parent("myContainer");
   background(0);
-}
-
-function draw() {
   //   r = 255;
   //   g = 0;
   //   b = 255;
   //   x = 100;
   //   y = 100;
+}
+
+function draw() {
   r = random(255);
   g = 0;
   b = random(255);
