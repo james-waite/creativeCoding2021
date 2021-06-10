@@ -24,3 +24,7 @@ function draw() {
   rectMode(CENTER);
   rect(0, 0, 30, 30);
 }
+
+function mousePressed() {
+  save("myImage.jpg");
+}
