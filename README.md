@@ -4,7 +4,6 @@ This is the public repo for the Cleveland Institute of Art's Young Adult Continu
 
 Here are the list of arists (and links) that we discussed each day:
 
-WEEK ONE
 Tuesday
 Rafael Rozendaal
 https://www.newrafael.com/
@@ -28,3 +27,12 @@ Olia Lialina
 http://art.teleportacia.org/
 Cory Archangel
 https://coryarcangel.com/things-i-made/category/software
+
+Here are a list of resources:
+
+https://www.p5js.org
+https://www.w3schools.com
+https://stackoverflow.com
+https://www.youtube.com/user/shiffman
+
+The Coding Train (the last link) is a greate resource for learning to program and has many beginner friendly tutorials!
