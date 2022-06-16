@@ -13,7 +13,7 @@ function draw() {
   //   }
   //   offset++;
 
-  for (let x = 0; x <= innerWidth; x += 50) {
+  for (let x = 0; x <= width; x += 50) {
     for (let y = 0; y <= height; y += 50) {
       fill(random(255), 0, random(255));
       circle(x, y, 25);
